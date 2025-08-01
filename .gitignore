@@ -1,0 +1,5 @@
+# Ignore kaggle_evaluation folder and all its contents
+kaggle_evaluation/
+
+# Ignore all Excel files (.xlsx)
+*.xlsx
